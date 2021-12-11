@@ -2,4 +2,4 @@
 
 First flutter project =)
 
-![Yay](master/ssimpor.png)
+![Yay](ssimpor.png)
